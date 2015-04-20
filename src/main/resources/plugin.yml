@@ -1,0 +1,10 @@
+name: SimpleKillStats
+main: io.github.notze.simpleKillStats.Main
+version: 1.0
+
+commands:
+  killstats:
+    description: Show your stats.
+    usage: Usage /killstats [on|off]
+    permission:
+    permission-message:
